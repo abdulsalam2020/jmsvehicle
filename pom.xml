@@ -6,4 +6,7 @@
   <packaging>pom</packaging>
   <name>jmsvehicle</name>
   
+  <modules>
+  	<module>Producer</module>
+  </modules>
 </project>
